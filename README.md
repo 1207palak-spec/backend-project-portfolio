@@ -1,4 +1,7 @@
 # Backend Projects Portfolio
+## About
+
+This repository highlights my professional backend development experience on enterprise applications. The source code cannot be shared publicly as it is proprietary to the organization. The documentation below summarizes the technologies, modules, and key contributions from these projects.
 
 # Professional Experience
 
